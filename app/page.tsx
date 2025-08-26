@@ -47,6 +47,19 @@ export default function MinimalPortfolio() {
       url: "https://www.inspigoforbusiness.id/index.html",
       // year: "2023",
     },
+    {
+      id: 3,
+      title:
+        "ezFiles: AI-Based Online Tool for Media & Document File Optimization",
+      category: "Web Development",
+      description:
+        "ezFiles is an AI-powered online platform that helps users compress, convert, and optimize media & document files with ease. It provides a fast, secure, and 100% free solution for efficient file processing.",
+      image:
+        "https://ik.imagekit.io/gurilaps/image.png?updatedAt=1756215428554",
+      tags: ["Next.js", "TailwindCSS", "ShadCN", "React Query", "Zustand"],
+      url: "https://ezfiles.ai/",
+      // year: "2025",
+    },
   ];
 
   const skills = [
